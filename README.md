@@ -37,7 +37,6 @@ and manage users and subscriptions from one dashboard.
 - [Security](#-security)
 - [FAQ](#-faq)
 - [Support](#-support)
-- [Credits & license](#-credits--license)
 
 ## 🔷 What is Licentra?
 
@@ -137,21 +136,6 @@ Crypto is paid **directly to the owner's own wallet** — no third-party custody
 
 ## 🤖 Discord & Telegram bots
 
-<p>
-<img src="assets/emojis/lc_logo.gif" width="32">
-<img src="assets/emojis/lc_key.gif" width="32">
-<img src="assets/emojis/lc_user.gif" width="32">
-<img src="assets/emojis/lc_shield.gif" width="32">
-<img src="assets/emojis/lc_premium.gif" width="32">
-<img src="assets/emojis/lc_time.gif" width="32">
-<img src="assets/emojis/lc_success.gif" width="32">
-<img src="assets/emojis/lc_warning.gif" width="32">
-<img src="assets/emojis/lc_error.gif" width="32">
-<img src="assets/emojis/lc_ban.gif" width="32">
-<img src="assets/emojis/lc_info.gif" width="32">
-<img src="assets/emojis/lc_loading.gif" width="32">
-</p>
-
 Manage your licenses from where your community already is.
 
 - **Discord bot** — slash commands **and** typed commands (with or without a prefix), custom per-server prefix (owner only), branded embeds and custom animated emojis
@@ -197,12 +181,6 @@ Licentra is a hosted service; its source is not published here.
 - 🌐 Website — https://licentra.dpdns.org
 - 💬 Discord — https://discord.gg/s487amTud8
 - ✈️ Telegram — [@LicentraAppBot](https://t.me/LicentraAppBot)
-
-## 📜 Credits & license
-
-Licentra is built on **[KeyAuth](https://github.com/KeyAuth/KeyAuth-Source-Code)**, used under the **Elastic License 2.0**. Thanks to the KeyAuth team.
-
-The Licentra name, logo, emojis, artwork and this page are © 2026 Licentra. All rights reserved.
 
 <div align="center">
 <br>
